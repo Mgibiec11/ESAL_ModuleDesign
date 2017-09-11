@@ -88,7 +88,8 @@
 //group3
 
 //group4
-
+SetupPins(uint8_t, uint8_t);
+SendLatch();
 //group5
 
 //group6

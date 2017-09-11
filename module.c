@@ -84,6 +84,8 @@
 //group3
 
 //group4
+static uint8_t WSPort;
+static uint8_t private WSPin; 
 
 //group5
 
@@ -112,6 +114,14 @@
 //group3
 
 //group4
+SetupPins(uint8_t WSPort, uint8_t WSPin)
+{
+	
+}
+SendLatch()
+{
+
+}
 
 //group5
 
